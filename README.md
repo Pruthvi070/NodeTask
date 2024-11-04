@@ -11,7 +11,7 @@ To set up the project locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://your-repository-url.git
+   git clone https://github.com/Pruthvi070/NodeTask.git
    cd your-repository-name
    ```
 
